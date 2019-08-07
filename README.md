@@ -18,3 +18,6 @@ Interesting and hopefully fun to use APIs
 
 **Science**
 * [Nasa APIs](https://api.nasa.gov/) - The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
+
+**Web Apps**
+* [Slack API](https://api.slack.com/) - Work with Slack.
