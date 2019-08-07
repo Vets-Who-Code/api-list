@@ -5,6 +5,7 @@ Interesting and hopefully fun to use APIs
 
 * [Marvel Developer Portal](https://developer.marvel.com/) - The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. 
 * [The Star Wars API](https://swapi.co/) - All the Star Wars data you've ever wanted!
+* [Star Trek API](http://stapi.co/) - The first public Star Trek API, accessible via REST and SOAP.
 
 **Misc Collections**
 
