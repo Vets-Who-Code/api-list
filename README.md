@@ -14,4 +14,4 @@ Interesting and hopefully fun to use APIs
 * [rapidapi.com](https://rapidapi.com/) - Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Marketplace - the world's largest API directory. Sign up today for Free!
 
 **Products and Things**
-* [Car Query](http://www.carqueryapi.com/) - CarQuery API is an easy to use JSON based API for retrieving detailed car and truck information, including year, make, model, trim, and specifications. Using CarQuery API is as simple as including a javascript file, and inserting a few lines of script in your page. You can also write your own javascript or server-side API interactions to use the available data any way you like.
+* [Car Query](http://www.carqueryapi.com/) - CarQuery API is an easy to use JSON based API for retrieving detailed car and truck information, including year, make, model, trim, and specifications.
