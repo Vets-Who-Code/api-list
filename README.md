@@ -27,6 +27,9 @@ Interesting and hopefully fun to use APIs
 * [Star Wars API](https://swapi.co/) - All the Star Wars data you've ever wanted!
 * [Superhero API](http://www.superheroapi.com/) - Get all SuperHeroes and Villians data from all universes under a single API.
 
+**Music**
+* [Spotify API](https://developer.spotify.com/documentation/web-api/) - Return JSON metadata on artists, albums, and songs from the Spotify data catalog.
+
 **Products and Things**
 * [Car Query](http://www.carqueryapi.com/) - CarQuery API is an easy to use JSON based API for retrieving detailed car and truck information, including year, make, model, trim, and specifications.
 
