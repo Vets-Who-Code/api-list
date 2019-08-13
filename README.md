@@ -6,9 +6,13 @@ Interesting and hopefully fun to use APIs
 * [BreweryDB](https://www.brewerydb.com/) - The world's most complete database for the beer industry.
 * [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/sinker/tacofancy), a taco recipe repo.
 
+**Gaming**
+* [Steam](https://steamcommunity.com/dev) - Multiple API's to connect to news, users, and stats
+* [Riot Games](https://developer.riotgames.com/) - All things Riot games, because who doesn't want LoL stats
+
 **Language**
 
-* [Fun Translations](https://funtranslations.com/api) - Have some fun with our translations. Yoda speak generator, Pirate talk generator, Pig Latin Converter and many many more...all in one simple easy to use API. 
+* [Fun Translations](https://funtranslations.com/api) - Have some fun with our translations. Yoda speak generator, Pirate talk generator, Pig Latin Converter and many many more...all in one simple easy to use API.
 
 
 **Misc Collections**
@@ -20,7 +24,7 @@ Interesting and hopefully fun to use APIs
 
 * [ChuckNorris.io](https://api.chucknorris.io/) - a free JSON API for hand curated Chuck Norris facts.
 * [Kitsu API](https://kitsu.docs.apiary.io/) - Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans.
-* [Marvel Developer Portal](https://developer.marvel.com/) - The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago. 
+* [Marvel Developer Portal](https://developer.marvel.com/) - The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago.
 * [Pokemon API](https://pokeapi.co/) - All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API.
 * [Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/) - Seems to give information based on various quotes from the Simpsons.
 * [Star Trek API](http://stapi.co/) - The first public Star Trek API, accessible via REST and SOAP.
@@ -37,6 +41,10 @@ Interesting and hopefully fun to use APIs
 * [International Space Station Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) - The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now?
 * [Nasa APIs](https://api.nasa.gov/) - The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
 * [Numbers API](http://numbersapi.com/#42) - Want to learn interesting facts about numbers?
+* [Wolfram Alpha](http://products.wolframalpha.com/api/) - Computational math hub
+
+**Social Media**
+*[Twitter](https://developer.twitter.com/) - Tweet Tweet
 
 **Web Apps**
 * [Slack API](https://api.slack.com/) - Work with Slack.
