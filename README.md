@@ -44,7 +44,7 @@ Interesting and hopefully fun to use APIs
 * [Wolfram Alpha](http://products.wolframalpha.com/api/) - Computational math hub
 
 **Social Media**
-*[Twitter](https://developer.twitter.com/) - Tweet Tweet
+* [Twitter](https://developer.twitter.com/) - Tweet Tweet
 
 **Web Apps**
 * [Slack API](https://api.slack.com/) - Work with Slack.
