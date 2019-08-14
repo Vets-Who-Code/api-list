@@ -7,6 +7,7 @@ Interesting and hopefully fun to use APIs
 * [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/sinker/tacofancy), a taco recipe repo.
 
 **Gaming**
+
 * [Steam](https://steamcommunity.com/dev) - Multiple API's to connect to news, users, and stats
 * [Riot Games](https://developer.riotgames.com/) - All things Riot games, because who doesn't want LoL stats
 
