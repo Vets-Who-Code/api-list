@@ -15,6 +15,10 @@ Interesting and hopefully fun to use APIs
 
 * [Fun Translations](https://funtranslations.com/api) - Have some fun with our translations. Yoda speak generator, Pirate talk generator, Pig Latin Converter and many many more...all in one simple easy to use API.
 
+**Open Source Projects**
+
+* [Gnome Developers API reference](https://developer.gnome.org/references) - Comprehensive API reference documentation for GNOME libraries, including GTK+.
+
 
 **Misc Collections**
 
