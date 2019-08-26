@@ -11,6 +11,12 @@ Interesting and hopefully fun to use APIs
 * [Steam](https://steamcommunity.com/dev) - Multiple API's to connect to news, users, and stats
 * [Riot Games](https://developer.riotgames.com/) - All things Riot games, because who doesn't want LoL stats
 
+**Governments & Geogrpahy**
+* [Code.gov](https://code.gov/) - Unlock the tremendous potential of the Federal Government’s software.
+* [EU Open Data Portal](http://data.europa.eu/euodp/en/developerscorner) - Access to European Union open data.
+* [UN Data](http://data.un.org/Host.aspx?Content=API) - UNdata API provides dynamic, programmatic access to data within the UNdata platform. Developers can use the API to dynamically query UNdata to obtain the latest data and display the result on a Web page, download to local storage for further processing, etc.
+
+
 **Language**
 
 * [Fun Translations](https://funtranslations.com/api) - Have some fun with our translations. Yoda speak generator, Pirate talk generator, Pig Latin Converter and many many more...all in one simple easy to use API.
@@ -46,6 +52,7 @@ Interesting and hopefully fun to use APIs
 **Science & Math**
 * [International Space Station Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/) - The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now?
 * [Nasa APIs](https://api.nasa.gov/) - The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
+* [National Weather Service](https://www.weather.gov/documentation/services-web-api)- The National Weather Service (NWS) API allows developers access to critrical forecasts, alerts, and observations, along with other weather data.
 * [Numbers API](http://numbersapi.com/#42) - Want to learn interesting facts about numbers?
 * [Wolfram Alpha](http://products.wolframalpha.com/api/) - Computational math hub
 
