@@ -11,7 +11,7 @@ Interesting and hopefully fun to use APIs
 * [Steam](https://steamcommunity.com/dev) - Multiple API's to connect to news, users, and stats
 * [Riot Games](https://developer.riotgames.com/) - All things Riot games, because who doesn't want LoL stats
 
-**Governments & Geogrpahy**
+**Governments & Geograpahy**
 * [Code.gov](https://code.gov/) - Unlock the tremendous potential of the Federal Government’s software.
 * [EU Open Data Portal](http://data.europa.eu/euodp/en/developerscorner) - Access to European Union open data.
 * [UN Data](http://data.un.org/Host.aspx?Content=API) - UNdata API provides dynamic, programmatic access to data within the UNdata platform. Developers can use the API to dynamically query UNdata to obtain the latest data and display the result on a Web page, download to local storage for further processing, etc.
