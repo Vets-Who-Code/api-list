@@ -51,6 +51,9 @@ Interesting and hopefully fun to use APIs
 
 **Social Media**
 * [Twitter](https://developer.twitter.com/) - Tweet Tweet
+* [Mastodon](https://docs.joinmastodon.org/api/) - Toot Toot
+* [Facebook](https://developers.facebook.com/) - All things Facebag
 
 **Web Apps**
+* [Discord](https://discordapp.com/developers/docs/intro) - Discord API, could be under gaming, but it's basically a big web app. 
 * [Slack API](https://api.slack.com/) - Work with Slack.
