@@ -3,6 +3,7 @@ Interesting and hopefully fun to use APIs
 
 **Food**
 * [BreweryDB](https://www.brewerydb.com/) - The world's most complete database for the beer industry.
+* [Open Food Facts](https://world.openfoodfacts.org/data) - A huge amount of data on food products from around the world.
 * [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/sinker/tacofancy), a taco recipe repo.
 
 **Gaming**
@@ -13,6 +14,7 @@ Interesting and hopefully fun to use APIs
 * [Code.gov](https://code.gov/) - Unlock the tremendous potential of the Federal Government’s software.
 * [Data.gov](https://www.data.gov/developers/apis) - Data.gov doesn’t just catalog raw data, it also includes APIs from across government. 
 * [EU Open Data Portal](http://data.europa.eu/euodp/en/developerscorner) - Access to European Union open data.
+* [TransLoc OpenAPI](https://rapidapi.com/transloc/api/openapi-1-2/details) - Get live data of public transportation of cities and college campuses.
 * [UN Data](http://data.un.org/Host.aspx?Content=API) - UNdata API provides dynamic, programmatic access to data within the UNdata platform. Developers can use the API to dynamically query UNdata to obtain the latest data and display the result on a Web page, download to local storage for further processing, etc.
 
 **Language**
