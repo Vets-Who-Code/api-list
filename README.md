@@ -5,6 +5,7 @@ Interesting and hopefully fun to use APIs
 * [BreweryDB](https://www.brewerydb.com/) - The world's most complete database for the beer industry.
 * [Open Food Facts](https://world.openfoodfacts.org/data) - A huge amount of data on food products from around the world.
 * [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/sinker/tacofancy), a taco recipe repo.
+* [Catalog.beer](https://catalog.beer/api-docs/) - A free and open database of 70,000+ beers, including style and brewery information.
 
 **Gaming**
 * [Steam](https://steamcommunity.com/dev) - Multiple API's to connect to news, users, and stats
