@@ -36,6 +36,7 @@ Interesting and hopefully fun to use APIs
 
 
 **Misc Collections**
+* [Abstract APIs](https://www.abstractapi.com) - A suite of utility API's for everyday use (validate emails, create user avatars, geolocate IP's)
 * [API List](https://apilist.fun/) - A collective list of APIs.
 * [Big List of Public APIs](https://github.com/public-apis/public-apis) - This is not a specific API, but a huge collection of them. To supplement this list.
 * [rapidapi.com](https://rapidapi.com/) - Browse, Test & Connect to 1000s of Public Rest APIs on RapidAPI's API Marketplace - the world's largest API directory. Sign up today for Free!
