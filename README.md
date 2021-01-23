@@ -49,7 +49,7 @@ Interesting and hopefully fun to use APIs
 * [Rick and Morty API](https://rickandmortyapi.com/) - The Rick and Morty API (or ShlaAPI) is a RESTful and GraphQL API based on the television show Rick and Morty.
 * [Simpsons Quote API](https://thesimpsonsquoteapi.glitch.me/) - Seems to give information based on various quotes from the Simpsons.
 * [Star Trek API](http://stapi.co/) - The first public Star Trek API, accessible via REST and SOAP.
-* [Star Wars API](https://swapi.co/) - All the Star Wars data you've ever wanted!
+* [Star Wars API](https://www.swapi.tech/) - All the Star Wars data you've ever wanted!
 * [Superhero API](http://www.superheroapi.com/) - Get all SuperHeroes and Villians data from all universes under a single API.
 
 **Music**
