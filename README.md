@@ -57,6 +57,7 @@ Interesting and hopefully fun to use APIs
 
 **Products and Things**
 * [Car Query](http://www.carqueryapi.com/) - CarQuery API is an easy to use JSON based API for retrieving detailed car and truck information, including year, make, model, trim, and specifications.
+* [Yelp's API](https://www.yelp.com/developers) - The Yelp Fusion API allows its users to get local content and user reviews from millions of businesses of hospitality and service industries across 32 countries.
 
 **Religion**
 * [Api.Bible](https://scripture.api.bible) - With nearly 1500 Bible versions available across over 1000 languages, API.Bible offers the largest collection of Bibles available.
