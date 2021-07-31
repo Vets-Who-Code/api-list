@@ -43,6 +43,7 @@ Interesting and hopefully fun to use APIs
 
 **Movies and Comics**
 * [ChuckNorris.io](https://api.chucknorris.io/) - a free JSON API for hand curated Chuck Norris facts.
+* [Final Space API](https://finalspaceapi.com/) - A RESTful API based on the animated series Final Space.
 * [Kitsu API](https://kitsu.docs.apiary.io/) - Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans.
 * [Marvel Developer Portal](https://developer.marvel.com/) - The Marvel Comics API allows developers everywhere to access information about Marvel's vast library of comics—from what's coming up, to 70 years ago.
 * [Pokemon API](https://pokeapi.co/) - All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API.
