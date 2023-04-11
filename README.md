@@ -1,6 +1,5 @@
-![text logo](https://cdn.myportfolio.com/4bebed9a-4022-46fc-83ca-66924fac1685/e15b4f93-81da-4c73-9972-b010a4001068_rw_1200.png?h=21f32c420b6a80d978bfc1ae4ee7d328)
-
-# Interesting and, hopefully, fun to use APIs
+# Cool API List!
+## Interesting and, hopefully, fun to use APIs
 
 &#x1F536; **AI**
 
