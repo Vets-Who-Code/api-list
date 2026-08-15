@@ -24,7 +24,7 @@
 * [BreweryDB](https://www.brewerydb.com/) - The world's most complete database for the beer industry.
 * [Catalog.beer](https://catalog.beer/api-docs/) - A free and open database of 70,000+ beers, including style and brewery information.
 * [Open Food Facts](https://world.openfoodfacts.org/data) - A huge amount of data on food products from around the world.
-* [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/sinker/tacofancy), a taco recipe repo.
+* [TacoFancy API](https://github.com/evz/tacofancy-api) - Making an API for [TacoFancy](https://github.com/dansinker/tacofancy), a taco recipe repo.
 
 &#x1F536; **Gaming**
 * [Call of Duty](https://codapi.dev/) - Unofficial wrapper for the Call of Duty API with multi-language support.
@@ -105,6 +105,7 @@
 * [Mastodon](https://docs.joinmastodon.org/api/) - Toot Toot*
 * [Facebook](https://developers.facebook.com/) - All things Facebag
 * [Instagram](https://developers.facebook.com/docs/instagram) - Instagram API
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 &#x1F536; **Sports**
 * [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) - The destination for current and historic NBA statistics.
