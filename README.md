@@ -110,6 +110,7 @@
 * [NBA Stats](https://any-api.com/nba_com/nba_com/docs/API_Description) - The destination for current and historic NBA statistics.
 
 &#x1F536; **Web Apps**
+* [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - One daily travel or personal-experience idea with an image and source URL. Free JSON API without a key or login; the default response is in Dutch, with CORS enabled.
 * [Discord](https://discordapp.com/developers/docs/intro) - Discord API, could be under gaming, but it's basically a big web app. 
 * [Slack API](https://api.slack.com/) - Work with Slack to creat features and bots.
 
